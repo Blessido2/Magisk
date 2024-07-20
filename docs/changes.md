@@ -1,5 +1,5 @@
 # Magisk Changelog
-
+blessido2
 ### v27.0
 
 - [Zygisk] Introduce new code injection mechanism
